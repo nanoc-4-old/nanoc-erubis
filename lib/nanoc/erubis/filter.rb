@@ -1,6 +1,6 @@
 # encoding: utf-8
 
-requires 'erubis'
+require 'erubis'
 
 module Nanoc::Erubis
 
